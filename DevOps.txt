@@ -1,0 +1,70 @@
+DEvOPS
+
+MAven
+-Setting.xml
+--Profile
+--- Profile Id
+
+
+BitBucket 
+
+--To Create Central Repository-
+-ssh user@host git init --bare /path/to/repo.git
+
+--git clone command:
+-git clone ssh://user@host/path/to/repo.git
+
+
+-git status # View the state of the repo
+-git add <some-file> # Stage a file
+-git commit # Commit a file</some-file>
+
+--Git Puch Command
+-git push origin master
+
+git Pull
+-git pull --rebase origin master
+
+
+jdbc:h2:file:/apps/sw/data/jira/database/h2db
+
+
+GIT
+rachit.gupta
+Rachit@261092
+
+Jira
+rachit.gupta
+skilrock
+
+GIT
+SkilRock@1234
+
+
+
+ssh-keygen
+
+
+ git clone ssh://git@192.168.126.99:7999/lms/dge_scheduler.git
+
+git cvsimport -d /c/Users/poonam/Documents/Desktop/DevOps/rep -C /c/Users/poonam/Documents/Desktop/SportsLottery
+
+
+For LMS Project in JbossDevStudio
+org.eclipse.wst.commom.project.facet.core.xml
+
+<faceted-project>
+  <fixed facet="wst.jsdt.web"/>
+  <installed facet="java" version="1.6"/>
+  <installed facet="jst.web" version="2.5"/>
+  <installed facet="wst.jsdt.web" version="1.0"/>
+</faceted-project>
+
+
+
+jbosss/open/deployment settings>use jboss deploy folder
+
+
+
+netstat -a -o -n
+taskkill /F /PID 28344
